@@ -18,7 +18,7 @@ If you don't have Python installed, you can download it from [Python's official 
 
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Poxxon/Slot-Machine.git
 ```
 ## Gameplay Instructions
 
