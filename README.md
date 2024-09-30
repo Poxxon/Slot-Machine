@@ -77,11 +77,11 @@ If a line contains matching symbols, your winnings are calculated by multiplying
 - The program checks each line to see if the symbols match across all columns and calculates the winnings accordingly.
 
 ## Code Breakdown
-**- get_slot_machine_spin():** Generates a random spin for the slot machine by selecting symbols for each column based on their defined frequencies.
-**- check_winnings():** Checks if any line contains matching symbols from left to right and calculates the player's winnings.
-**- get_bet() and get_number_of_lines():** Prompts the player to enter the number of lines to bet on and the amount to bet.
-**- spin():** Handles the game logic for placing a bet, spinning the reels, and calculating the player's final balance.
-**- main():** The main game loop where players deposit money, place bets, and either play or quit the game.
+- **get_slot_machine_spin():** Generates a random spin for the slot machine by selecting symbols for each column based on their defined frequencies.
+- **check_winnings():** Checks if any line contains matching symbols from left to right and calculates the player's winnings.
+- **get_bet() and get_number_of_lines():** Prompts the player to enter the number of lines to bet on and the amount to bet.
+- **spin():** Handles the game logic for placing a bet, spinning the reels, and calculating the player's final balance.
+- **main():** The main game loop where players deposit money, place bets, and either play or quit the game.
 
 ## Sample output
 ```bash
