@@ -64,10 +64,10 @@ Each symbol has a value associated with it:
 
 ```python
 symbol_value = {
-    "A": 5,
-    "B": 4,
-    "C": 3,
-    "D": 2
+    "A": 5,   #5x Multipiler
+    "B": 4,   #4x Multipiler
+    "C": 3,   #3x Multipiler
+    "D": 2    #2x Multipiler
 }
 ```
 If a line contains matching symbols, your winnings are calculated by multiplying the bet amount by the symbol's value.
